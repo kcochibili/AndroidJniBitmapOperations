@@ -42,7 +42,7 @@ How to import the library project
  4. Thats all :)
 
 
- [1]:  http://bit.ly/JniBitmapSO
+ [1]:  http://bit.ly/JNI_BITMAP_SO_FILE
  
  [2]:  https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations/tree/master/JniBitmapOperationsLibrary/src/com/jni/bitmap_operations
  
