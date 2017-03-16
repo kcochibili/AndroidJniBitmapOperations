@@ -36,15 +36,15 @@ The things I think this library should have :
 How to import the library project
 ---------------------------------
 
- 1. Create a folder in your project and call it "libs" (if you dont have one already), create another folder inside the "libs" folder you just created and call it "armeabi".
- 2. place the [**JniBitmapOperationLibrary.so**][1] into the "armeabi" folder.
- 3. place the [**JniBitmapHolder.java**][2] in your "src" folder.
- 4. Thats all :)
+ 1. Create a folder in your project and call it "libs" (if you dont have one already).
+ 2. Download the [**Jar and .SO**][1] files, unzip it.
+ 3. Copy and paste the armeabi folders into the "libs" folder you created in step 1.
+ 4. Copy and paste the libJniBitmapOperationsLibrary.jar into the "libs" folder you created in step 1.
+ 5. Thats all :)
 
 
  [1]:  http://bit.ly/JNI_BITMAP_SO_FILE
  
- [2]:  https://github.com/AndroidDeveloperLB/AndroidJniBitmapOperations/tree/master/JniBitmapOperationsLibrary/src/com/jni/bitmap_operations
  
  Usage:
 -----------------------
